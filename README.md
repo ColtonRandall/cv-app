@@ -1,8 +1,3 @@
-# React + Vite
+# CV App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This React app was created using [Vite](https://vitejs.dev/guide/) as a preference over the CRA build tool. More detail about this [here](https://semaphoreci.com/blog/vite#:~:text=Vite%20is%20a%20next%2Dgeneration,%2C%20jsx%2C%20and%20dynamic%20import.).
